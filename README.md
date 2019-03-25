@@ -1,4 +1,4 @@
-                                                   Twitter-Sentiment-Analysis
+                                                   Twitter Sentiment Analysis
    
 This project addresses the problem of sentiment analysis in twitter, that is classifying tweets according to the sentiment expressed in them. Due to large amount of usage we hope to achieve a reflection of public sentiment by analyzing the sentiments expressed in the tweets. Analyzing the public sentiment is important for many applications such as firms trying to find out the response of their products in the market. The aim of this project is to develop a functional classifier for accurate and automatic sentiment classification of an unknown tweet stream.
 
@@ -60,6 +60,8 @@ The idea of SVM is to determine a boundary or boundaries that separate distinct 
 
 •	The same steps had been followed for Support vector algorithm
 •	Finally the accuracy for both algorithms are equal with the difference in timings .Hence the prediction shows that the positive comments for iphone is more then Android.
+
+
 
      
 
