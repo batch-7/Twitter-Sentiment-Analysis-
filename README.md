@@ -61,6 +61,9 @@ The idea of SVM is to determine a boundary or boundaries that separate distinct 
 •	The same steps had been followed for Support vector algorithm
 •	Finally the accuracy for both algorithms are equal with the difference in timings .Hence the prediction shows that the positive comments for iphone is more then Android.
 
+Future Enhancement
+   Right now we have worked with only the very simplest unigram models.we can improve those models by adding extra information like closeness of the word with a negation word and we could specify a window prior to the word. 
+
 # Demo Video
 https://www.youtube.com/watch?v=yxkgJRave4c&feature=youtu.be
 
